@@ -2,6 +2,7 @@
 
 ## Creating a branch
 
+<!--TODO: Convert to VSCode instructions-->
 To create a branch, use the following command:
 
 ```bash

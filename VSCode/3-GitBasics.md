@@ -2,6 +2,7 @@
 
 ## Making a commit
 
+<!--TODO: Convert to VSCode instructions-->
 To make a commit, first you will need to add all of the files that you want to
 be part of the commit to the staging area. To see the current state of your
 repository, use
@@ -39,6 +40,7 @@ committing and be intentional of what you commit.
 
 ## Commit Messages
 
+<!--TODO: Convert to VSCode instructions-->
 You may have noticed in the [previous section](#making-a-commit) that running
 `git commit`, a text editor opens where you can edit the commit message. However,
 we can add the `-m <message>` argument to the command in order to skip openning

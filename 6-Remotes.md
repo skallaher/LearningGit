@@ -31,6 +31,12 @@ will reflect that in the local branch of `origin/my-awesome-feature`.
 
 <!-- TODO: Add a visual for this operation -->
 
+Follow the instructions for how to fetch changes with your tool of choice:
+
+- [Command Line](CommandLine/6-Remotes.md#fetching)
+- [VSCode](VSCode/6-Remotes.md#fetching)
+- [GitHub Desktop](GitHubDesktop/6-Remotes.md#fetching)
+
 ## Pulling
 
 A pull is the combination of two different operations, a fetch followed by a
@@ -39,9 +45,21 @@ what is on the remote.
 
 <!-- TODO: Add a visual for this operation -->
 
+Follow the instructions for how to pull changes with your tool of choice:
+
+- [Command Line](CommandLine/6-Remotes.md#pulling)
+- [VSCode](VSCode/6-Remotes.md#pulling)
+- [GitHub Desktop](GitHubDesktop/6-Remotes.md#pulling)
+
 ## Pushing
 
 A push is the opposite of a pull and takes the changes of your local branch
 and updates the remote with them.
 
 <!-- TODO: Add a visual for this operation -->
+
+Follow the instructions for how to push changes with your tool of choice:
+
+- [Command Line](CommandLine/6-Remotes.md#pushing)
+- [VSCode](VSCode/6-Remotes.md#pushing)
+- [GitHub Desktop](GitHubDesktop/6-Remotes.md#pushing)

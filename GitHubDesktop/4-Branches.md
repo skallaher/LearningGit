@@ -2,6 +2,7 @@
 
 ## Creating a branch
 
+<!--TODO: Convert to GitHub Desktop instructions-->
 To create a branch, use the following command:
 
 ```bash

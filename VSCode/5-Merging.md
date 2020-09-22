@@ -2,6 +2,7 @@
 
 ## Merging two or more branches
 
+<!--TODO: Convert to VSCode instructions-->
 To merge one branch into another, use the `merge` command:
 
 ```bash
@@ -19,6 +20,7 @@ git merge <from branch> -m "Merged X into Y. Here's some extra data."
 
 ## Merge Conflicts
 
+<!--TODO: Convert to VSCode instructions-->
 In the event of a merge conflict, Git will inform you that the conflict has
 occurred and `git status` will show which files have conflicts.
 
@@ -44,6 +46,7 @@ you can run `git merge --abort` to stop and revert back to before the merge bega
 
 ## Rebasing
 
+<!--TODO: Convert to VSCode instructions-->
 To rebase one branch onto another, use
 
 ```bash

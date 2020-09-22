@@ -16,3 +16,5 @@ encouraged).
 5. Open a Pull Request to merge your branch into the main branch.
 6. Get code review on your Pull Request.
 7. Merge, or have merged, your Pull Request into the main branch.
+
+<!-- TODO: Add a visual walkthrough of an example here -->

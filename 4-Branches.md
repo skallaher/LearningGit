@@ -23,8 +23,9 @@ get intertwined.
 The creation of a branch is tool specific, please see the relevant document for
 your tool of choice.
 
-- [Command Line](CommandLine/4-Branches.md)
-- [VSCode](VSCode/4-Branches.md)
+- [Command Line](CommandLine/4-Branches.md#creating-a-branch)
+- [VSCode](VSCode/4-Branches.md#creating-a-branch)
+- [GitHub Desktop](GitHubDesktop/4-Branches.md#creating-a-branch)
 
 ## Branches vs Forks
 

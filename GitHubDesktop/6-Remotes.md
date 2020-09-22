@@ -2,6 +2,7 @@
 
 ## Fetching
 
+<!--TODO: Convert to GitHub Desktop instructions-->
 To run a fetch, use the `fetch` command:
 
 ```bash
@@ -13,6 +14,7 @@ fetch or immediately return if there are no updates.
 
 ## Pulling
 
+<!--TODO: Convert to GitHub Desktop instructions-->
 To pull changes, utilize one of the following forms of the `pull` command:
 
 ```bash
@@ -28,6 +30,7 @@ checked out branch.
 
 ## Pushing
 
+<!--TODO: Convert to GitHub Desktop instructions-->
 To push your changes up to the remote, use one of the forms of the `push` command:
 
 ```bash
