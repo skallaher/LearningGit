@@ -12,14 +12,17 @@
     <summary>Hint 1</summary>
     <blockquote>
     <details>
-    <summary>Command Line</summary>
+        <summary>Command Line</summary>
 
 To add a file to the staging area, use `git add [<filename>...]`
     </details>
     <details>
-    <summary>VSCode</summary>
-
-<!-- TODO -->
+        <summary>VSCode</summary>
+        <!-- TODO -->
+    </details>
+    <details>
+        <summary>GitHub Desktop</summary>
+        <!-- TODO -->
    </details>
    </blockquote>
 </details>
@@ -28,7 +31,7 @@ To add a file to the staging area, use `git add [<filename>...]`
     <summary>Hint 2</summary>
     <blockquote>
     <details>
-    <summary>Command Line</summary>
+        <summary>Command Line</summary>
 
 To make a commit, use `git commit`
 
@@ -36,9 +39,12 @@ To make a commit, use `git commit`
 message within the `commit` command!
     </details>
     <details>
-    <summary>VSCode</summary>
-
-<!-- TODO -->
-   </details>
-   </blockquote>
+        <summary>VSCode</summary>
+        <!-- TODO -->
+    </details>
+    <details>
+        <summary>GitHub Desktop</summary>
+        <!-- TODO -->
+    </details>
+    </blockquote>
 </details>

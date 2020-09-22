@@ -11,14 +11,17 @@
     <summary>Hint 1</summary>
     <blockquote>
     <details>
-    <summary>Command Line</summary>
+        <summary>Command Line</summary>
 
 Branches are created using `git branch [branch name]`
     </details>
     <details>
-    <summary>VSCode</summary>
-
-<!-- TODO -->
+        <summary>VSCode</summary>
+        <!-- TODO -->
+    </details>
+    <details>
+        <summary>GitHub Desktop</summary>
+        <!-- TODO -->
    </details>
    </blockquote>
 </details>
@@ -27,7 +30,7 @@ Branches are created using `git branch [branch name]`
     <summary>Hint 2</summary>
     <blockquote>
     <details>
-    <summary>Command Line</summary>
+        <summary>Command Line</summary>
 
 Branches can be checked out with `git checkout [branch name]`
 
@@ -35,9 +38,12 @@ Branches can be checked out with `git checkout [branch name]`
 `git checkout -b [branch name]`
     </details>
     <details>
-    <summary>VSCode</summary>
-
-<!-- TODO -->
-   </details>
-   </blockquote>
+        <summary>VSCode</summary>
+        <!-- TODO -->
+    </details>
+    <details>
+        <summary>GitHub Desktop</summary>
+        <!-- TODO -->
+    </details>
+    </blockquote>
 </details>

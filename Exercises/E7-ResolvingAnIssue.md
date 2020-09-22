@@ -13,12 +13,16 @@
     <summary>Hint 1</summary>
     <blockquote>
     <details>
-    <summary>Command Line</summary>
-<!-- TODO -->
+        <summary>Command Line</summary>
+        <!-- TODO -->
     </details>
     <details>
-    <summary>VSCode</summary>
-<!-- TODO -->
+        <summary>VSCode</summary>
+        <!-- TODO -->
+    </details>
+    <details>
+        <summary>GitHub Desktop</summary>
+        <!-- TODO -->
     </details>
     </blockquote>
 </details>
@@ -27,14 +31,17 @@
     <summary>Hint 2</summary>
     <blockquote>
     <details>
-    <summary>Command Line</summary>
-<!-- TODO -->
+        <summary>Command Line</summary>
+        <!-- TODO -->
     </details>
     <details>
-    <summary>VSCode</summary>
-
-<!-- TODO -->
-   </details>
+        <summary>VSCode</summary>
+        <!-- TODO -->
+    </details>
+    <details>
+        <summary>GitHub Desktop</summary>
+        <!-- TODO -->
+    </details>
    </blockquote>
 </details>
 
@@ -42,13 +49,16 @@
     <summary>Hint 3</summary>
     <blockquote>
     <details>
-    <summary>Command Line</summary>
-<!-- TODO -->
+        <summary>Command Line</summary>
+        <!-- TODO -->
     </details>
     <details>
-    <summary>VSCode</summary>
-
-<!-- TODO -->
-   </details>
+        <summary>VSCode</summary>
+        <!-- TODO -->
+    </details>
+    <details>
+        <summary>GitHub Desktop</summary>
+        <!-- TODO -->
+    </details>
    </blockquote>
 </details>

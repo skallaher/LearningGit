@@ -16,24 +16,27 @@
     <summary>Hint 1</summary>
     <blockquote>
     <details>
-    <summary>Command Line</summary>
+        <summary>Command Line</summary>
 
 Revisit [this document](../CommandLine/4-Branches.md) if you are having trouble
 creating branches.
     </details>
     <details>
-    <summary>VSCode</summary>
-
-<!-- TODO -->
-   </details>
-   </blockquote>
+        <summary>VSCode</summary>
+        <!-- TODO -->
+    </details>
+    <details>
+        <summary>GitHub Desktop</summary>
+        <!-- TODO -->
+    </details>
+    </blockquote>
 </details>
 
 <details>
     <summary>Hint 2</summary>
     <blockquote>
     <details>
-    <summary>Command Line</summary>
+        <summary>Command Line</summary>
 
 Branches are merged using the `git merge [<from commit>...]` command.
 
@@ -41,26 +44,32 @@ This is either in the form of `git merge [from]` to merge to the currently check
 out branch or `git merge [from] [to]`
     </details>
     <details>
-    <summary>VSCode</summary>
-
-<!-- TODO -->
-   </details>
-   </blockquote>
+        <summary>VSCode</summary>
+        <!-- TODO -->
+    </details>
+    <details>
+        <summary>GitHub Desktop</summary>
+        <!-- TODO -->
+    </details>
+    </blockquote>
 </details>
 
 <details>
     <summary>Hint 3</summary>
     <blockquote>
     <details>
-    <summary>Command Line</summary>
+        <summary>Command Line</summary>
 
 Revisit [this document](../CommandLine/5-Merging.md) if you need a refresher on
 how to resolve merge conflicts.
     </details>
     <details>
-    <summary>VSCode</summary>
-
-<!-- TODO -->
-   </details>
-   </blockquote>
+        <summary>VSCode</summary>
+        <!-- TODO -->
+    </details>
+    <details>
+        <summary>GitHub Desktop</summary>
+        <!-- TODO -->
+    </details>
+    </blockquote>
 </details>
