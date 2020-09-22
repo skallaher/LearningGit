@@ -6,6 +6,7 @@ Each of the below sections has instructions using all the following:
 
 - Command Line
 - VSCode
+- GitHub Desktop
 
 ***Note:*** If you are not comfortable with using a terminal, or command line,
 it is recommended that you start with one of the other tools.

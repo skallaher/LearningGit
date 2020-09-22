@@ -10,11 +10,13 @@ Here's how to do this:
 
 - [CommandLine](CommandLine/3-GitBasics.md#making-a-commit)
 - [VSCode](VSCode/3-GitBasics.md#making-a-commit)
+- [GitHub Desktop](GitHubDesktop/3-GitBasics.md#making-a-commit)
 
 ## Commit Messages
 
 - [CommandLine](CommandLine/3-GitBasics.md#commit-messages)
 - [VSCode](VSCode/3-GitBasics.md#commit-messages)
+- [GitHub Desktop](GitHubDesktop/3-GitBasics.md#commit-messages)
 
 ## The Commit Graph
 
