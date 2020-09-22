@@ -3,6 +3,8 @@
 Git is what is called a `version control system`. This means that Git is
 responsible for tracking and maintaining the changes made to files over time.
 
+[This video](https://www.youtube.com/watch?v=2ReR1YJrNOM) gives a decent overview.
+
 Below, we'll discuss some of the different parts of Git.
 
 ---------

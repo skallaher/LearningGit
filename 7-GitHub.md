@@ -84,7 +84,7 @@ people become familiar with the changes.
 Individuals who should perform a code review of the changes before they are
 merged.
 
-### Assignees
+### PR Assignees
 
 Similar to issues, the individuals who are responsible for the pull request. This
 can represent developers who are responsible for merging the pull request or
@@ -92,14 +92,14 @@ otherwise need to view the pull request. There are also many other ways this
 can be used, however, be sure that anyone who needs to review the code changes
 is a `reviewer` rather than just an `assignee`.
 
-### Labels
+### PR Labels
 
 See `Labels` in the `Issues` section.
 
-### Projects
+### PR Projects
 
 See `Projects` in the `Issues` section.
 
-### Milestones
+### PR Milestones
 
 See `Milestones` in the `Issues` section.
