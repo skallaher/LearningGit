@@ -1,5 +1,7 @@
 # Glossary
 
+<!-- TODO: Add more items and descriptions to the Glossary -->
+
 ## Commit
 
 ## Remote
