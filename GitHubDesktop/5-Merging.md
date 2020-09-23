@@ -3,62 +3,44 @@
 ## Merging two or more branches
 
 <!--TODO: Convert to GitHub Desktop instructions-->
-To merge one branch into another, use the `merge` command:
+To merge one branch into another, checkout the branch that you want to merge to
+(See [Branches](4-Branches.md) on how to do this), then switch to the `history`
+view:
 
-```bash
-git merge <from branch> ...
-```
+![Branch History](../resources/GitHubDesktop/history.png)
 
-This will merge the specified branch into the branch that you currently have
-checked out. This will open up a text editor on success to edit the merge commit
-message. Similar to commit messages, you can add the `-m <mesage>` argument to
-write the message within the command.
+Now, choose the branch that you want to merge into this one:
 
-```bash
-git merge <from branch> -m "Merged X into Y. Here's some extra data."
-```
+![Compare Branch](../resources/GitHubDesktop/compare_branch.png)
+
+Finally, after verifying that all of the changes are what you want to merge,
+click the `Merge into <branch>` button:
+
+![Merge Button](../resources/GitHubDesktop/merge_button.png)
 
 ## Merge Conflicts
 
-<!--TODO: Convert to GitHub Desktop instructions-->
-In the event of a merge conflict, Git will inform you that the conflict has
-occurred and `git status` will show which files have conflicts.
+When a merge conflict occurs, GitHub Desktop will tell you that they are present:
 
-<!-- TODO: Add git status example for a merge conflict -->
+![Merge Conflict](../resources/GitHubDesktop/merge_conflict.png)
 
-Within the files that have conflicts, git will add annotations to indicate which
-lines are conflicting.
+When this happens, if you click the `Merge into <branch>` button, you will see
+something like this dialog pop up:
 
-```txt
-<<<<<<< current-branch
-... lines from the existing file ...
-=======
-... lines from the new version ...
->>>>>>> merging-branch
-```
+![Merge Conflict Dialog](../resources/GitHubDesktop/conflict_dialog.png)
 
-These annotations should be removed when you resolve the merge conflict. Once you
-have resolved the conflicts, you will need to add all of the conflicted files and
-then run `git commit` to complete the merge.
-
-At any point during this process, if you don't want to continue with the merge,
-you can run `git merge --abort` to stop and revert back to before the merge began.
+At this point, you will need to open up your editor of choice to resolve the
+conflict. Once you have, you can merge as normal.
 
 ## Rebasing
 
 <!--TODO: Convert to GitHub Desktop instructions-->
-To rebase one branch onto another, use
+To rebase one branch onto another, open the `Branch` dropdown and select
+`Rebase current branch...`:
 
-```bash
-git rebase <onto branch>
-```
+![Rebase Dropdown](../resources/GitHubDesktop/rebase_dropdown.png)
 
-To perform a rebase and make edits to the history as you do so, use
+From here, select the branch you want to rebase onto and click the `Start rebase`
+button:
 
-```bash
-git rebase -i <onto branch>
-```
-
-This will open a text editor where you can change how the rebase is performed.
-See the documentation at the bottom of the file that is opened as to how to use
-this feature.
+![Rebase Button](../resources/GitHubDesktop/rebase_button.png)

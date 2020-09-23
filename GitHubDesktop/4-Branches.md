@@ -3,20 +3,17 @@
 ## Creating a branch
 
 <!--TODO: Convert to GitHub Desktop instructions-->
-To create a branch, use the following command:
+To create a branch, first open up the branch dropdown:
 
-```bash
-git branch <branch name>
-```
+![Branch Dropdown](../resources/GitHubDesktop/branch_dropdown.png)
 
-You can then switch over to, or checkout, that branch with the following:
+Now click the `New Branch` button:
 
-```bash
-git checkout <branch name>
-```
+![New Branch Button](../resources/GitHubDesktop/new_branch_button.png)
 
-As a quick shortcut, you can do both of these at once with
+Finally, give your new branch a name and click `Create Branch`:
 
-```bash
-git checkout -b <branch name>
-```
+![Create Branch Dialog](../resources/GitHubDesktop/create_branch_dialog.png)
+
+From the branch dropdown, you can also checkout any other branch in your
+repository.

@@ -3,14 +3,9 @@
 ## Fetching
 
 <!--TODO: Convert to GitHub Desktop instructions-->
-To run a fetch, use the `fetch` command:
+To run a fetch, use the `Fetch <remote>` button:
 
-```bash
-git fetch
-```
-
-This will output any branches that have updated on the remote since your last
-fetch or immediately return if there are no updates.
+![Fetch](../resources/GitHubDesktop/fetch.png)
 
 ## Pulling
 
