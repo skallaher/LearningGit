@@ -35,6 +35,8 @@ create a code block which makes reading this much easier)
 Issues in GitHub are assigned a number and represented throughout as `#<issue number>`. This can be used to reference them in other things such as commit
 messages, other issues, and pull requests.
 
+![GitHub Issue](resources/github_issue.png)
+
 ### Assignees
 
 Assignees are used in issues to denote who is responsible for that issue. This
@@ -72,6 +74,8 @@ should be mentioned in the description.
 ***Note:*** You can mention an issue with terms like `closes`, `fixes`, or
 `resolves` just before the issue reference to automatically close the issue
 when the pull request is merged.
+
+![GitHub Pull Request](resources/github_pull_request.png)
 
 ### **Code Review**
 

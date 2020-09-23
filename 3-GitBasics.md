@@ -23,5 +23,23 @@ Here's how to do this:
 We've discussed what the commit graph is [previously](1-WhatIsGit.md), however,
 it can be beneficial to have a visual idea of what is going on.
 
-<!-- TODO: Insert images for commit graphs here -->
-<!-- ![Image](a) -->
+Below are a few different visualizations, from some different tools, of the commit
+graph of a single repository.
+
+### GitHub: Insights > Network
+
+![GitHub Commit Graph](resources/github_commit_graph.png)
+
+### Tig
+
+![Tig Commit Graph](resources/tig_commit_graph.png)
+
+### VSCode
+
+![VSCode Commit Graph](resources/vscode_commit_graph.png)
+
+### GitHub Desktop
+
+GitHub Desktop currently does not currently implement this feature.
+
+See the [relevant issue](https://github.com/desktop/desktop/issues/1634).

@@ -7,7 +7,7 @@ other code should be compared against.
 Under the hood, branches are simply pointers at a commit, though they can
 conceptually be viewed as a collection of commits.
 
-<!-- TODO: Add a visual for branches -->
+![Git Branches](resources/git_branches.svg)
 
 ## Why use a branch
 

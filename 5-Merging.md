@@ -16,7 +16,7 @@ merged into) which has two or more parent commits representing the commits which
 were merged together. Merge commits, just like standard commits, have a commit
 message which defaults to `Merge of branch X into branch Y`.
 
-<!-- TODO: Give a visual of this operation -->
+![Git Merge](resources/git_merges.png)
 
 ## Merging two or more branches
 

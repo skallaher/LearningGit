@@ -29,7 +29,9 @@ the remote to be, but will not affect the state of your local branches or files.
 For example, if the branch `my-awesome-feature` is updated on the remote, a fetch
 will reflect that in the local branch of `origin/my-awesome-feature`.
 
-<!-- TODO: Add a visual for this operation -->
+In the following diagram, the squares are from new remote branches, while the
+circles are from local branches.
+![Git Fetch](resources/git_fetch.svg)
 
 Follow the instructions for how to fetch changes with your tool of choice:
 
@@ -43,7 +45,11 @@ A pull is the combination of two different operations, a fetch followed by a
 merge. This is typically used to update your local branch to be the same as
 what is on the remote.
 
-<!-- TODO: Add a visual for this operation -->
+Before pulling:
+![Git Pull Before](resources/git_pull1.svg)
+
+After pulling:
+![Git Pull After](resources/git_pull2.svg)
 
 Follow the instructions for how to pull changes with your tool of choice:
 
@@ -56,7 +62,7 @@ Follow the instructions for how to pull changes with your tool of choice:
 A push is the opposite of a pull and takes the changes of your local branch
 and updates the remote with them.
 
-<!-- TODO: Add a visual for this operation -->
+![Git Push](resources/git_push.svg)
 
 Follow the instructions for how to push changes with your tool of choice:
 
