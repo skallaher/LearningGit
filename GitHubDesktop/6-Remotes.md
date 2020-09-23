@@ -2,40 +2,22 @@
 
 ## Fetching
 
-<!--TODO: Convert to GitHub Desktop instructions-->
 To run a fetch, use the `Fetch <remote>` button:
 
 ![Fetch](../resources/GitHubDesktop/fetch.png)
 
 ## Pulling
 
-<!--TODO: Convert to GitHub Desktop instructions-->
-To pull changes, utilize one of the following forms of the `pull` command:
-
-```bash
-git pull
-git pull <remote name> <branch name>
-```
-
-The former command will pull the upstream, the branch on the remote that your
-local branch is linked to, of your branch into the local checked out version.
-
-The latter command will pull the given branch from the given remote into the local
-checked out branch.
+To pull changes, utilize the `Pull <remote>` button:
+<!-- TODO: Add visual for this -->
 
 ## Pushing
 
-<!--TODO: Convert to GitHub Desktop instructions-->
-To push your changes up to the remote, use one of the forms of the `push` command:
+To push your changes up to the remote, use the `Push <remote>` button:
 
-```bash
-git push
-git push <remote name> <branch name>
-```
+![Push](../resources/GitHubDesktop/push.png)
 
-The former command will either, depending on your configuration, push just the
-branch you are currently on to its upstream (the branch it is linked to on the
-remote), or push every branch to their upstreams.
+You may also see the `Publish branch` button here. This just means that your
+branch isn't on the remote yet.
 
-The latter command will push the branch you are on to the given branch on the
-given remote.
+![Publish](../resources/GitHubDesktop/publish.png)
