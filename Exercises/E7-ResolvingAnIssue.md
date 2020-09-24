@@ -12,53 +12,21 @@
 <details>
     <summary>Hint 1</summary>
     <blockquote>
-    <details>
-        <summary>Command Line</summary>
-        <!-- TODO -->
-    </details>
-    <details>
-        <summary>VSCode</summary>
-        <!-- TODO -->
-    </details>
-    <details>
-        <summary>GitHub Desktop</summary>
-        <!-- TODO -->
-    </details>
+You will need to go to GitHub to create an issue.
     </blockquote>
 </details>
 
 <details>
     <summary>Hint 2</summary>
     <blockquote>
-    <details>
-        <summary>Command Line</summary>
-        <!-- TODO -->
-    </details>
-    <details>
-        <summary>VSCode</summary>
-        <!-- TODO -->
-    </details>
-    <details>
-        <summary>GitHub Desktop</summary>
-        <!-- TODO -->
-    </details>
+Don't forget to push your branch before trying to create a Pull Request.
    </blockquote>
 </details>
 
 <details>
     <summary>Hint 3</summary>
     <blockquote>
-    <details>
-        <summary>Command Line</summary>
-        <!-- TODO -->
-    </details>
-    <details>
-        <summary>VSCode</summary>
-        <!-- TODO -->
-    </details>
-    <details>
-        <summary>GitHub Desktop</summary>
-        <!-- TODO -->
-    </details>
+Create the Pull Request from GitHub with a source branch of your new branch
+and a target branch of the main branch.
    </blockquote>
 </details>

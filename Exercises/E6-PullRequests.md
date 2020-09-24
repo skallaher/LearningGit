@@ -1,6 +1,11 @@
 # Pull Requests
 
-<!-- TODO: Create PR Exercise -->
+1. Create a Pull Request for one of the branches you've created in a previous
+exercise.
+2. Assign the Pull Request to yourself
+3. Leave a comment on one of the files in the Pull Request
+4. Add the `Bug` label to the Pull Request
+5. Merge the Pull Request
 
 ---------
 
@@ -9,53 +14,6 @@
 <details>
     <summary>Hint 1</summary>
     <blockquote>
-    <details>
-        <summary>Command Line</summary>
-        <!-- TODO -->
-    </details>
-    <details>
-        <summary>VSCode</summary>
-        <!-- TODO -->
-    </details>
-    <details>
-        <summary>GitHub Desktop</summary>
-        <!-- TODO -->
-    </details>
+Don't forget to push your branch before creating a Pull Request.
     </blockquote>
-</details>
-
-<details>
-    <summary>Hint 2</summary>
-    <blockquote>
-    <details>
-        <summary>Command Line</summary>
-        <!-- TODO -->
-    </details>
-    <details>
-        <summary>VSCode</summary>
-        <!-- TODO -->
-    </details>
-    <details>
-        <summary>GitHub Desktop</summary>
-        <!-- TODO -->
-    </details>
-   </blockquote>
-</details>
-
-<details>
-    <summary>Hint 3</summary>
-    <blockquote>
-    <details>
-        <summary>Command Line</summary>
-        <!-- TODO -->
-    </details>
-    <details>
-        <summary>VSCode</summary>
-        <!-- TODO -->
-    </details>
-    <details>
-        <summary>GitHub Desktop</summary>
-        <!-- TODO -->
-    </details>
-   </blockquote>
 </details>
