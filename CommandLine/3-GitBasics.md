@@ -37,6 +37,13 @@ to the staging area before creating a commit. While this may seem like a very
 convenient shortcut, you should always be aware of which files you will be
 committing and be intentional of what you commit.
 
+If you have any files that are staged which you no longer want to commit, you
+can unstage them using the `reset` command:
+
+```bash
+git reset -- <filename>
+```
+
 ## Commit Messages
 
 You may have noticed in the [previous section](#making-a-commit) that running

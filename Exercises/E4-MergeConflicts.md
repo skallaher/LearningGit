@@ -23,11 +23,15 @@ creating branches.
     </details>
     <details>
         <summary>VSCode</summary>
-        <!-- TODO -->
+
+Revisit [this document](../VSCode/4-Branches.md) if you are having trouble
+creating branches.
     </details>
     <details>
         <summary>GitHub Desktop</summary>
-        <!-- TODO -->
+
+Revisit [this document](../GitHubDesktop/4-Branches.md) if you are having trouble
+creating branches.
     </details>
     </blockquote>
 </details>
@@ -45,11 +49,21 @@ out branch or `git merge [from] [to]`
     </details>
     <details>
         <summary>VSCode</summary>
-        <!-- TODO -->
+
+You can merge branches by using the `Merge branch...` button in the
+`More Actions...` drop down:
+
+![Merge Button](../resources/VSCode/merge_branch.png)
     </details>
     <details>
         <summary>GitHub Desktop</summary>
-        <!-- TODO -->
+
+You can merge branches by selecting a branch in the `History` section and
+clicking the `Merge into <branch>` button:
+
+![History](../resources/GitHubDesktop/history.png)
+
+![Merge Button](../resources/GitHubDesktop/merge_button.png)
     </details>
     </blockquote>
 </details>
@@ -65,11 +79,15 @@ how to resolve merge conflicts.
     </details>
     <details>
         <summary>VSCode</summary>
-        <!-- TODO -->
+
+Revisit [this document](../VSCode/5-Merging.md) if you need a refresher on
+how to resolve merge conflicts.
     </details>
     <details>
         <summary>GitHub Desktop</summary>
-        <!-- TODO -->
+
+Revisit [this document](../GitHubDesktop/5-Merging.md) if you need a refresher on
+how to resolve merge conflicts.
     </details>
     </blockquote>
 </details>

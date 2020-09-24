@@ -2,7 +2,6 @@
 
 ## Creating a branch
 
-<!--TODO: Convert to GitHub Desktop instructions-->
 To create a branch, first open up the branch dropdown:
 
 ![Branch Dropdown](../resources/GitHubDesktop/branch_dropdown.png)

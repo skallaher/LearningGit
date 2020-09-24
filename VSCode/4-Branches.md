@@ -2,21 +2,21 @@
 
 ## Creating a branch
 
-<!--TODO: Convert to VSCode instructions-->
-To create a branch, use the following command:
+To create a branch, open the `More Actions` menu:
 
-```bash
-git branch <branch name>
-```
+![More Actions](../resources/VSCode/action_menu.png)
 
-You can then switch over to, or checkout, that branch with the following:
+Then in the `Branch` submenu:
 
-```bash
-git checkout <branch name>
-```
+![Branch Menu](../resources/VSCode/branch_dropdown.png)
 
-As a quick shortcut, you can do both of these at once with
+Select the `Create Branch...` option and provide a branch name:
 
-```bash
-git checkout -b <branch name>
-```
+![Create Branch](../resources/VSCode/create_branch.png)
+
+You can then switch over to, or checkout, that branch using the `Checkout to...`
+button in the `More Actions` menu:
+
+![Checkout](../resources/VSCode/checkout.png)
+
+Then select the branch that you want to check out.

@@ -22,7 +22,20 @@ git merge <from branch> -m "Merged X into Y. Here's some extra data."
 In the event of a merge conflict, Git will inform you that the conflict has
 occurred and `git status` will show which files have conflicts.
 
-<!-- TODO: Add git status example for a merge conflict -->
+```txt
+On branch current-branch
+
+You have unmerged paths.
+  (fix conflicts and run "git commit")
+  (use "git merge --abort" to abort the merge)
+
+Unmerged paths:
+  (use "git add <file>..." to mark resolution)
+
+        both modified:  README.md
+
+no changes added to commit (use "git add" and/or "git commit -a")
+```
 
 Within the files that have conflicts, git will add annotations to indicate which
 lines are conflicting.

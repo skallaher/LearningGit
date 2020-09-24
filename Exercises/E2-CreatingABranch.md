@@ -17,11 +17,18 @@ Branches are created using `git branch [branch name]`
     </details>
     <details>
         <summary>VSCode</summary>
-        <!-- TODO -->
+
+You can create a branch using the `Create Branch...` button in the
+`More Actions...` menu:
+
+![Create Branch](../resources/VSCode/create_branch.png)
     </details>
     <details>
         <summary>GitHub Desktop</summary>
-        <!-- TODO -->
+
+Branches are created using the branch dropdown's `New branch`:
+
+![Branch Dropdown](../resources/GitHubDesktop/new_branch_button.png)
    </details>
    </blockquote>
 </details>
@@ -39,11 +46,16 @@ Branches can be checked out with `git checkout [branch name]`
     </details>
     <details>
         <summary>VSCode</summary>
-        <!-- TODO -->
+
+You can switch branches using the `Checkout to...` button:
+
+![Checkout Branch](../resources/VSCode/checkout.png)
     </details>
     <details>
         <summary>GitHub Desktop</summary>
-        <!-- TODO -->
+
+To checkout a branch, use the branch dropdown:
+![Branch Dropdown](../resources/GitHubDesktop/branch_dropdown.png)
     </details>
     </blockquote>
 </details>

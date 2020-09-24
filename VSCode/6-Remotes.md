@@ -2,45 +2,24 @@
 
 ## Fetching
 
-<!--TODO: Convert to VSCode instructions-->
-To run a fetch, use the `fetch` command:
+To run a fetch, open the `More Actions...` menu:
 
-```bash
-git fetch
-```
+![More Actions](../resources/VSCode/action_menu.png)
 
-This will output any branches that have updated on the remote since your last
-fetch or immediately return if there are no updates.
+Then, under `Pull/Push`, use the `Fetch` button:
+
+![Pull/Push](../resources/VSCode/pull_push.png)
+
+![Fetch](../resources/VSCode/fetch.png)
 
 ## Pulling
 
-<!--TODO: Convert to VSCode instructions-->
-To pull changes, utilize one of the following forms of the `pull` command:
+To pull changes, within the `More Actions...` menu, use the `Pull` button:
 
-```bash
-git pull
-git pull <remote name> <branch name>
-```
-
-The former command will pull the upstream, the branch on the remote that your
-local branch is linked to, of your branch into the local checked out version.
-
-The latter command will pull the given branch from the given remote into the local
-checked out branch.
+![Pull](../resources/VSCode/pull.png)
 
 ## Pushing
 
-<!--TODO: Convert to VSCode instructions-->
-To push your changes up to the remote, use one of the forms of the `push` command:
+To push your changes up to the remote, use the `Push` button in `More Actions...`:
 
-```bash
-git push
-git push <remote name> <branch name>
-```
-
-The former command will either, depending on your configuration, push just the
-branch you are currently on to its upstream (the branch it is linked to on the
-remote), or push every branch to their upstreams.
-
-The latter command will push the branch you are on to the given branch on the
-given remote.
+![Push](../resources/VSCode/push.png)

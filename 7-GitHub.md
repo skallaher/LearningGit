@@ -1,7 +1,5 @@
 # GitHub
 
-<!-- TODO: Add visuals for these operations -->
-
 GitHub is one of many Git remote services and is currently the most popular. It is
 widely used by open source projects for collaboration purposes. However, GitHub
 (along with other remote services) has more collaboration tools than just a

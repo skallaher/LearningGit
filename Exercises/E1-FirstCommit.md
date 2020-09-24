@@ -18,11 +18,20 @@ To add a file to the staging area, use `git add [<filename>...]`
     </details>
     <details>
         <summary>VSCode</summary>
-        <!-- TODO -->
+
+You can add files to the staging area using the `Stage Changes` or
+`Stage All Changes` buttons.
+
+![Stage Changes](../resources/VSCode/stage_file_button.png)
+
+![Stage All Changes](../resources/VSCode/stage_all_button.png)
     </details>
     <details>
         <summary>GitHub Desktop</summary>
-        <!-- TODO -->
+
+To make a commit, fill in the details and click the `Commit to <branch>` button:
+
+![Commit Button](../resources/GitHubDesktop/make_commit.png)
    </details>
    </blockquote>
 </details>
@@ -40,11 +49,10 @@ message within the `commit` command!
     </details>
     <details>
         <summary>VSCode</summary>
-        <!-- TODO -->
-    </details>
-    <details>
-        <summary>GitHub Desktop</summary>
-        <!-- TODO -->
+
+To make a commit, click the `Commit` button:
+
+![Commit Button](../resources/VSCode/commit_button.png)
     </details>
     </blockquote>
 </details>

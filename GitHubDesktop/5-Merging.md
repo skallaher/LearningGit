@@ -2,7 +2,6 @@
 
 ## Merging two or more branches
 
-<!--TODO: Convert to GitHub Desktop instructions-->
 To merge one branch into another, checkout the branch that you want to merge to
 (See [Branches](4-Branches.md) on how to do this), then switch to the `history`
 view:
@@ -34,7 +33,6 @@ conflict. Once you have, you can merge as normal.
 
 ## Rebasing
 
-<!--TODO: Convert to GitHub Desktop instructions-->
 To rebase one branch onto another, open the `Branch` dropdown and select
 `Rebase current branch...`:
 

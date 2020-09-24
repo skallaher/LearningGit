@@ -2,50 +2,39 @@
 
 ## Making a commit
 
-<!--TODO: Convert to VSCode instructions-->
 To make a commit, first you will need to add all of the files that you want to
 be part of the commit to the staging area. To see the current state of your
-repository, use
+repository, navigate to the `Source Control` tab:
 
-```bash
-git status
-```
+![Source Control Tab](../resources/VSCode/git_tab.png)
 
 This will show you which files have been changed or added, and in what part of the
-staging process they are in. For example:
+staging process they are in.
 
-```txt
-On branch master
+To add a single file to the staging area, use the `Stage Changes` button for that
+file:
 
-Changes not staged for commit:
-  (use "git add <file>..." to update what will be committed)
-  (use "git restore <file>..." to discard changes in working directory)
-        modified: README.md
+![Add Single File](../resources/VSCode/stage_file_button.png)
 
-no changes added to commit (use "git add" and/or "git commit -a")
-```
+Alternatively, you can add **all** files to the staging area using the
+`Stage All Changes` button:
 
-Let's commit this `README.md` file:
+![Add All Files](../resources/VSCode/stage_all_button.png)
 
-```bash
-git add README.md
-git commit
-```
+Once you've added all of the files you want to commit to the staging area,
+click the `Commit` button, and provide a commit message:
 
-You will notice that in the above example output for `git status`, that git
-suggests `git commit -a`. This command adds **all** files (except untracked files)
-to the staging area before creating a commit. While this may seem like a very
-convenient shortcut, you should always be aware of which files you will be
-committing and be intentional of what you commit.
+![Commit Button](../resources/VSCode/commit_button.png)
+
+If, at any time, you want to remove files from the commit you are about to make,
+you can unstage them, using either the `Unstage Changes` button:
+
+![Unstage Changes](../resources/VSCode/unstage_file_button.png)
+
+Or the `Unstage All Changes` button:
+
+![Unstage All Changes](../resources/VSCode/unstage_all_button.png)
 
 ## Commit Messages
 
-<!--TODO: Convert to VSCode instructions-->
-You may have noticed in the [previous section](#making-a-commit) that running
-`git commit`, a text editor opens where you can edit the commit message. However,
-we can add the `-m <message>` argument to the command in order to skip openning
-the text editor and set the message directly. For example:
-
-```bash
-git commit -m "Here's my commit message!"
-```
+VSCode requires you to write a commit message when you click the `Commit` button.
