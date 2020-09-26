@@ -1,5 +1,7 @@
 # What is Git
 
+![Git XKCD](resources/git_xkcd.png "If that doesn't fix it, git.txt contains the phone number of a friend of mine who understands git. Just wait through a few minutes of 'It's really pretty simple, just think of branches as...' and eventually you'll learn the commands that will fix everything.")
+
 Git is what is called a `version control system`. This means that Git is
 responsible for tracking and maintaining the changes made to files over time.
 
