@@ -22,7 +22,7 @@ paper copied to a new drive, and they got the paper to the printers in time.
 
 ## Story: Collaboration
 
-A long time ago, in a university not so far away, a eight students were
+A long time ago, in a university not so far away, eight students were
 working together to write their final paper for a class. They had divided
 the paper into sections, and each wrote their part, but then the one who
 had volunteered to be the editor had to take all of their emailed parts
