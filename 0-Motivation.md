@@ -55,7 +55,7 @@ the entire program. Only then, when he was able to compare the retyped version a
 the original, did he notice that one of the quotes in the file was a "curly" quote, 
 which was the problem.
 
-## Lesson learned: use version control
+## Lesson Learned: Use Version Control
 
 In all of these stories, there is something that is being done manually that would
 be a lot easier if it was done by software. In the first story, the missing feature
