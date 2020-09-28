@@ -13,6 +13,10 @@ it is recommended that you start with one of the other tools.
 
 Refer to the [Glossary](Glossary.md) for some helpful definitions.
 
+## Motivation
+
+Read [this document](0-Movivation.md) to read about why we're learning about Git.
+
 ## What is Git
 
 Read [this document](1-WhatIsGit.md) to learn more about what Git is.
