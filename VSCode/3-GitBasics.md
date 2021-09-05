@@ -1,5 +1,22 @@
 # Git Basics
 
+## Creating a new Repository
+
+VS Code does not currently support this operation. It is recommended to use the
+one of the other tools to complete this task.
+
+## Cloning a Repository
+
+To clone a repository, navigate to the `Source Control` tab.
+
+![Source Control Tab](../resources/VSCode/git_tab.png)
+
+Open the `More Actions...` menu:
+
+![More Actions](../resources/VSCode/action_menu.png)
+
+Choose `Clone` and input the URL retrieved from the remote repository.
+
 ## Making a commit
 
 To make a commit, first you will need to add all of the files that you want to

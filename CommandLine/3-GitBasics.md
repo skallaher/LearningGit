@@ -1,5 +1,25 @@
 # Git Basics
 
+## Creating a new Repository
+
+To create a new repository, run the following command from within the directory
+which will contain the repository:
+
+```bash
+git init
+```
+
+## Cloning a Repository
+
+Using the link retrieved from the remote, run the following command:
+
+```bash
+git clone <url>
+```
+
+This will create a directory, with the same name as the remote repository, within
+the current working directory.
+
 ## Making a commit
 
 To make a commit, first you will need to add all of the files that you want to
